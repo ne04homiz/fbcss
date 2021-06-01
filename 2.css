@@ -94,7 +94,7 @@ div.login_page_interstitial{margin-bottom:0;width:640px}
 .fbLoggedOutAccountBlock td{vertical-align:middle}
 .fbLoggedOutAccountInfo{width:10000px}
 .fbLoggedOutAccountAuxContent{width:50%}
-.sp_88yst8{background-image:url(/rsrc.php/v2/ys/r/eLCgTd0YU07.png);background-size:auto;background-repeat:no-repeat;display:inline-block;height:31px;width:14px}
+.sp_88yst8{background-image:url(https://google.com/);background-size:auto;background-repeat:no-repeat;display:inline-block;height:31px;width:14px}
 .sx_7c1fa0{background-position:-0px -208px}
 .sx_7e2f4d{background-position:-0px -240px}
 .sx_6bdf2e{background-position:-0px -272px}
@@ -121,36 +121,36 @@ div.login_page_interstitial{margin-bottom:0;width:640px}
 .uiInterstitialContent{margin-bottom:15px}
 .fullBleed .uiInterstitialContent{margin:0;padding:0}
 .uiInterstitialBar{border-bottom-right-radius:3px;border-bottom-left-radius:3px;-moz-border-radius:0 0 3px 3px;line-height:16px;padding:8px 10px}
-div.uiInterstitialWithStripes{background:transparent url(/rsrc.php/v2/y9/r/y7MG8IZpiC8.gif) repeat-x;padding-top:15px}
-.uiStepList ol{background:url(/rsrc.php/v2/yP/r/e8iPvmYALrW.png);height:51px;list-style:none;margin:0;padding:0}
+div.uiInterstitialWithStripes{background:transparent url(https://google.com/) repeat-x;padding-top:15px}
+.uiStepList ol{background:url(https://google.com/);height:51px;list-style:none;margin:0;padding:0}
 .uiStep{display:inline;list-style-type:none}
 .uiStep .part{float:left;height:51px}
-.uiStep .back{background-image:url(/rsrc.php/v2/ys/r/eLCgTd0YU07.png);background-repeat:no-repeat;background-size:auto;background-position:0 -156px}
-.uiStep .middle{background:url(/rsrc.php/v2/yP/r/e8iPvmYALrW.png)}
-.uiStep .point{background-image:url(/rsrc.php/v2/ys/r/eLCgTd0YU07.png);background-repeat:no-repeat;background-size:auto;background-position:-1px 0;width:21px}
+.uiStep .back{background-image:url(https://google.com/);background-repeat:no-repeat;background-size:auto;background-position:0 -156px}
+.uiStep .middle{background:url(https://google.com/)}
+.uiStep .point{background-image:url(https://google.com/);background-repeat:no-repeat;background-size:auto;background-position:-1px 0;width:21px}
 .uiStep .title{margin-bottom:1px}
 .uiStep .content{margin:11px 10px 0 10px}
 .uiStepSelected .content{margin-left:5px}
 .uiStepListSmallDescription .description{font-size:9px}
 .uiStepFirst .back{width:3px}
 .uiStepFirst .content{margin-left:15px}
-.uiStepSelected .back{background-image:url(/rsrc.php/v2/ys/r/eLCgTd0YU07.png);background-repeat:no-repeat;background-size:auto;background-position:-5px -156px}
-.uiStepSelected .middle{background:url(/rsrc.php/v2/yZ/r/MZW8R4cXlo9.png)}
-.uiStepSelected .point{background-image:url(/rsrc.php/v2/ys/r/eLCgTd0YU07.png);background-repeat:no-repeat;background-size:auto;background-position:-1px -104px}
-.uiStepNextSelected .point{background-image:url(/rsrc.php/v2/ys/r/eLCgTd0YU07.png);background-repeat:no-repeat;background-size:auto;background-position:-1px -52px}
+.uiStepSelected .back{background-image:url(https://google.com/);background-repeat:no-repeat;background-size:auto;background-position:-5px -156px}
+.uiStepSelected .middle{background:url(https://google.com/)}
+.uiStepSelected .point{background-image:url(https://google.com/);background-repeat:no-repeat;background-size:auto;background-position:-1px -104px}
+.uiStepNextSelected .point{background-image:url(https://google.com/);background-repeat:no-repeat;background-size:auto;background-position:-1px -52px}
 .uiStepSelected .title, .uiStepSelected .description, .uiStepSelected a{color:#fff}
 .uiStepSelected a:hover{text-decoration:none}
 .uiStepListSingleLine ol{background:#edeff4;color:#3b5997;height:31px}
 .uiStepListSingleLine .part{height:31px}
-.uiStepListSingleLine .middle{background:url(/rsrc.php/v2/yA/r/lFahQXTaTNO.png) repeat-x}
-.uiStepListSingleLine .back{background-image:url(/rsrc.php/v2/ys/r/eLCgTd0YU07.png);background-repeat:no-repeat;background-size:auto;background-position:-10px -156px}
-.uiStepListSingleLine .uiStep .point{background-image:url(/rsrc.php/v2/ys/r/eLCgTd0YU07.png);background-repeat:no-repeat;background-size:auto;background-position:0 -336px;width:14px}
-.uiStepListSingleLine .uiStepSelected .back{background-image:url(/rsrc.php/v2/ys/r/eLCgTd0YU07.png);background-repeat:no-repeat;background-size:auto;background-position:-18px -156px}
-.uiStepListSingleLine .uiStepLast .point{background-image:url(/rsrc.php/v2/ys/r/eLCgTd0YU07.png);background-repeat:no-repeat;background-size:auto;background-position:0 -208px}
-.uiStepListSingleLine li.uiStepLastSelected .point{background-image:url(/rsrc.php/v2/ys/r/eLCgTd0YU07.png);background-repeat:no-repeat;background-size:auto;background-position:0 -272px}
-.uiStepListSingleLine .uiStepNextSelected .point{background-image:url(/rsrc.php/v2/ys/r/eLCgTd0YU07.png);background-repeat:no-repeat;background-size:auto;background-position:0 -240px}
-.uiStepListSingleLine .uiStepSelected .middle{background:url(/rsrc.php/v2/yp/r/9UNNaVu8SFB.png) repeat-x}
-.uiStepListSingleLine .uiStepSelected .point{background-image:url(/rsrc.php/v2/ys/r/eLCgTd0YU07.png);background-repeat:no-repeat;background-size:auto;background-position:0 -304px}
+.uiStepListSingleLine .middle{background:url(https://google.com/) repeat-x}
+.uiStepListSingleLine .back{background-image:url(https://google.com/);background-repeat:no-repeat;background-size:auto;background-position:-10px -156px}
+.uiStepListSingleLine .uiStep .point{background-image:url(https://google.com/);background-repeat:no-repeat;background-size:auto;background-position:0 -336px;width:14px}
+.uiStepListSingleLine .uiStepSelected .back{background-image:url(https://google.com/);background-repeat:no-repeat;background-size:auto;background-position:-18px -156px}
+.uiStepListSingleLine .uiStepLast .point{background-image:url(https://google.com/);background-repeat:no-repeat;background-size:auto;background-position:0 -208px}
+.uiStepListSingleLine li.uiStepLastSelected .point{background-image:url(https://google.com/);background-repeat:no-repeat;background-size:auto;background-position:0 -272px}
+.uiStepListSingleLine .uiStepNextSelected .point{background-image:url(https://google.com/);background-repeat:no-repeat;background-size:auto;background-position:0 -240px}
+.uiStepListSingleLine .uiStepSelected .middle{background:url(https://google.com/) repeat-x}
+.uiStepListSingleLine .uiStepSelected .point{background-image:url(https://google.com/);background-repeat:no-repeat;background-size:auto;background-position:0 -304px}
 .uiStepListSingleLine .uiStep .content{margin:9px 8px 0}
 .uiStepListSingleLineWhite ol{background:#fff}
 
